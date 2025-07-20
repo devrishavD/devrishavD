@@ -99,5 +99,5 @@ I'm a B.Tech student in **Electronics and Communication Engineering** at **IEM**
 
 <!-- Footer Note -->
 <p align="center">
-  Made with ❤️ by Rishav Dam | Powered by curiosity and coffee ☕
+  Designed & coded by Rishav Dam · Let's build something great.
 </p>
